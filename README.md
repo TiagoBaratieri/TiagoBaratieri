@@ -18,13 +18,6 @@ Estudante de Análise e Desenvolvimento de Sistemas.<br/> Participando atualment
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-lightgrey)
 
- ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/VictorLira-DEV/count.svg" />
- </p>
-
-
 
 <!--
 **TiagoBaratieri/TiagoBaratieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
