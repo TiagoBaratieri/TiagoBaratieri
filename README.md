@@ -1,6 +1,6 @@
 Olá sou Tiago Baratieri! <img src="https://github.com/disousadev/disousadev/blob/main/hey.gif?raw=true" width="32px">
 
-Estudante de Análise e Desenvolvimento de Sistemas.<br/> Participando atualmente do  [Botcamp DvSuperior](https://devsuperior.com.br/) :desktop_computer:<br/>estudando JAVA, Spring e Spring Boot, HTML, CSS, Javascript, TypeScript,ReactJS.
+Formando Análise e Desenvolvimento de Sistemas.<br/> Participando atualmente do  [Botcamp DvSuperior](https://devsuperior.com.br/) :desktop_computer:<br/>estudando JAVA, Spring e Spring Boot, HTML, CSS, Javascript, TypeScript,ReactJS.
 
 ### 📬 Me encontre:
 
